@@ -5,11 +5,11 @@
 
 In the project directory, you can run:
 
-### Features
+## Features
 1.Customizable cursor design and animations
 2.Interactive cursor effects on hover
 2.Smooth cursor movement and transitions
 
-##Technologies Used
+## Technologies Used
 1.React
 2.SCSS
